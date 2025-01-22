@@ -6,3 +6,4 @@ function printName(str){
 
 printName("Aditya")
 
+console.log("new changes in test1 ")
