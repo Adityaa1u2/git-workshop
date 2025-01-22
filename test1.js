@@ -6,3 +6,5 @@ function printName(str){
 
 printName("Aditya")
 
+console.log("Console added in development branch")
+
